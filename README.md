@@ -4,10 +4,10 @@ Hello! **I'm a front-end developer, studying to become full stack**. Looking for
 **Right now, I'm studying Node.JS**. Also, I'm always reviewing HTML, CSS and Javascript. 
 
 <div align="center">
-  <a href="https://twitter.com/_michellemello" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michelle-mello-18827b163/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
-  <a href = "mailto:mello.de.michelle@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://dev.to/_michellemello"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/sakibsobhan" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sakibsobhan/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
+  <a href = "mailto:sakibsobhan@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://dev.to/sakibsobhan"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
 ## Technologies
