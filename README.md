@@ -21,7 +21,7 @@ Let's Connect!
 Email: sakibsobhan@gmail.com
 LinkedIn: linkedin.com/in/sakibsobhan
 
-Open to new challenges and collaborations in the dynamic world of e-commerce development. Let's connect and discuss how my expertise can elevate your online presence! 🚀
+Open to new challenges and collaborations in the dynamic world of e-commerce development. Let's connect and discuss how my expertise can elevate your online presence! 
 
 <div align="center">
   <a href="https://twitter.com/sakibsobhan" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
