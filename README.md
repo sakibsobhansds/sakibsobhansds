@@ -46,5 +46,4 @@ Open to new challenges and collaborations in the dynamic world of e-commerce dev
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sakibsobhansds&show_icons=true&theme=radical">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibsobhansds&layout=donut&theme=radical">
 </div>
