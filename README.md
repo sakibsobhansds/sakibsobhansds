@@ -1,6 +1,6 @@
 Front End Developer | Shopify Theme Specialist
 
-Passionate Front End Developer with a focus on crafting immersive and user-centric Shopify experiences. 🌐 Specializing in Shopify theme development, I bring a unique blend of technical expertise and creative flair to drive online success.
+Passionate Front End Developer with a focus on crafting immersive and user-centric Shopify experiences. Specializing in Shopify theme development, I bring a unique blend of technical expertise and creative flair to drive online success.
 
 Current Role at Smart Data Soft:
 Development of visually stunning and high-performing Shopify themes to enhance user engagement and conversion rates.
