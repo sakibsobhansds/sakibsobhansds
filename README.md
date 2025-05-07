@@ -30,20 +30,3 @@ Open to new challenges and collaborations in the dynamic world of e-commerce dev
   <a href = "https://dev.to/sakibsobhan"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
-## Technologies
-<div align="center">
-  <img alt="Sakib-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Sakib-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Sakib-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Sakib-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Sakib-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Sakib-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Sakib-Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
-</div>
-
-## Stats
-
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sakibsobhansds&show_icons=true&theme=radical">
-</div>
